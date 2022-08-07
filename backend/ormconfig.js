@@ -4,7 +4,7 @@ module.exports =
   "host": process.env.DATABASE_HOST,
   "database": process.env.DATABASE,
   "username": process.env.DATABASE_USERNAME,
-  "passwrod": process.env.DATABASE_PASSWORD,
+  "password": process.env.DATABASE_PASSWORD,
   "port": process.env.DATABASE_PORT,
   "insecureAuth": true,
   "supportBigNumbers": false,
